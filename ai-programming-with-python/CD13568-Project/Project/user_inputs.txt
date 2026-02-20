@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Vijikaran
+—————————————-
+
+Question 1: See 100 reviews with columns such as rating, title, text, images and more. Data type very from text, int, float and time stamp. Reviews are structured as one row per user per product.
+Question 2: See top n number of items with all column and values are shown. As he same suggested expected to see top n items
+Question 3: See top 10 items, close to a table format where column width are increased for better visibility 
+Question 4: Metadata describes each product, including the product description, price, and features. Additionally, it provides a summary of user ratings, including the total number of reviews and the average rating. The focus is on the product itself, while user reviews focus on customer feedback and experiences.
+Question 5: Prefer using info() as it provides useful information, including all columns, their data types, and the non-null value distribution.
+Question 6: The histogram of product review frequency versus price shows that lower-priced products tend to have more ratings, possibly because they are purchased more frequently. Mid-range products appear to have fewer ratings, while high-end products have a moderate number of ratings.
+Question 7: The scatter plot of average rating versus price shows that lower-priced products tend to receive higher ratings, possibly due to their value for money. Mid-range products appear to have fewer ratings, while high-end products seem to receive the highest ratings.
